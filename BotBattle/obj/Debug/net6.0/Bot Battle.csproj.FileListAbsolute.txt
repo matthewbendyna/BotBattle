@@ -1,0 +1,15 @@
+/home/matthew/Documents/Code/C#/BotBattle/obj/Debug/net6.0/Bot Battle.csproj.AssemblyReference.cache
+/home/matthew/Documents/Code/C#/BotBattle/obj/Debug/net6.0/Bot Battle.GeneratedMSBuildEditorConfig.editorconfig
+/home/matthew/Documents/Code/C#/BotBattle/obj/Debug/net6.0/Bot Battle.AssemblyInfoInputs.cache
+/home/matthew/Documents/Code/C#/BotBattle/obj/Debug/net6.0/Bot Battle.AssemblyInfo.cs
+/home/matthew/Documents/Code/C#/BotBattle/obj/Debug/net6.0/Bot Battle.csproj.CoreCompileInputs.cache
+/home/matthew/Documents/Code/C#/BotBattle/bin/Debug/net6.0/Bot Battle
+/home/matthew/Documents/Code/C#/BotBattle/bin/Debug/net6.0/Bot Battle.deps.json
+/home/matthew/Documents/Code/C#/BotBattle/bin/Debug/net6.0/Bot Battle.runtimeconfig.json
+/home/matthew/Documents/Code/C#/BotBattle/bin/Debug/net6.0/Bot Battle.dll
+/home/matthew/Documents/Code/C#/BotBattle/bin/Debug/net6.0/Bot Battle.pdb
+/home/matthew/Documents/Code/C#/BotBattle/obj/Debug/net6.0/Bot Battle.dll
+/home/matthew/Documents/Code/C#/BotBattle/obj/Debug/net6.0/refint/Bot Battle.dll
+/home/matthew/Documents/Code/C#/BotBattle/obj/Debug/net6.0/Bot Battle.pdb
+/home/matthew/Documents/Code/C#/BotBattle/obj/Debug/net6.0/Bot Battle.genruntimeconfig.cache
+/home/matthew/Documents/Code/C#/BotBattle/obj/Debug/net6.0/ref/Bot Battle.dll
